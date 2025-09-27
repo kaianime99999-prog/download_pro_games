@@ -1,0 +1,44 @@
+{
+  "games": [
+    {
+      "id": 3,
+      "title": "تحميل لعبة جاتا 7 GTA للكمبيوتر الاصلية",
+      "description": "المزيد من المركبات الحربية مثل الدبابات والمدرعات هذا بخلاف السفن... الخ.",
+      "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu3WdEB2ZRea5Z5DZq6VzvEVAIAKKs722moibJI636CkEVJtXU7ZCkhzbFpEd3y2-jieyQeyORsiNDVAOtm-aY_oVzNBHMVUxXvZG8QjNd__Q2Yo9MCgbmsimrPpkrzi3tGnbafdFjhb6rPl4LgeHoZ7SvFdAJRrKtg-Btg9T9OePnRR_56G147XX9AA/s1600-e90-rw/download-gta-7.jpg",
+      "downloadLink": "https://up.downloadcomputergames.net/2020/09/download-gta-7-for-pc/GTA-7-Vice-City.zip",
+      "category": "ACTION",
+      "platforms": "Windows",
+      "systemReqs": "نظام التشغيل : Windows 98/ME/2000/XP, Windows 7/8/10/11.\nالمعالج : Pentium 4 @ 1.3 GHz.\nكرت الشاشة : GeForce 3 / Radeon 8500.\nالذاكرة العشوائية : 256 MB Memory RAM.\nمساحة القرص الصلب: 1.40 GB Available Space.\nبرنامج : DirectX 8.1.",
+      "views": 119,
+      "createdAt": "2025-09-25T09:49:43.510Z"
+    },
+    {
+      "id": 4,
+      "title": "تحميل لعبه Freedom Fighters الاصليه للكمبيوتر",
+      "description": "في عالم بديل، يقوم الاتحاد السوفيتي بغزو الولايات المتحدة واحتلال مدينة نيويورك.\nأنت تلعب بشخصية كريستوفر ستون، وهو سبّاك عادي يجد نفسه فجأة مجبرًا على القتال بعد أن يخطف السوفييت أخاه ويحتلون مدينته.",
+      "imageUrl": "https://i.postimg.cc/mkBGg0X1/freedom-fighters-3-1.jpg",
+      "downloadLink": "https://www.mediafire.com/file/i63kf8x150kpux5/Freedom-Fighters.rar/file",
+      "category": "CLASSIC",
+      "platforms": "Windows / ps2/Gamecupe/xbox",
+      "systemReqs": "نظام التشغيل: Windows 98 / ME / 2000 / XP\n\nالمعالج: Intel Pentium III بسرعة 733 MHz أو مكافئ\n\nالذاكرة (RAM): 128 MB\n\nكرت الشاشة: بطاقة 32 MB متوافقة مع DirectX 8.1 (مثل GeForce 2 أو ATI Radeon)\n\nالمساحة التخزينية: 650 MB فارغة على القرص الصلب\n\nالصوت: بطاقة صوت متوافقة مع DirectX\n\nالموصى به (Recommended)\n\nنظام التشغيل: Windows XP\n\nالمعالج: Intel Pentium 4 بسرعة 1.5 GHz أو أعلى\n\nالذاكرة (RAM): 256 MB\n\nكرت الشاشة: بطاقة 64 MB أو أعلى (GeForce 3 / ATI Radeon 8500 أو أفضل)\n\nالمساحة التخزينية: 650 MB فارغة\n\nالصوت: بطاقة صوت متوافقة مع DirectX",
+      "views": 146,
+      "createdAt": "2025-09-25T21:19:00.383Z"
+    },
+    {
+      "id": 7,
+      "title": "Urban- Freestyle-Soccer ss",
+      "description": "هناك فرق عصابات (gangs) بعدد كبير — كل فريق له ملعبه الخاص وبيئة حضرية مميزة.",
+      "imageUrl": "https://i.postimg.cc/W45VzR3h/download.jpg",
+      "downloadLink": "https://www.mediafire.com/file/3rw6jfzfzpq98ue/Urban-Freestyle-Soccer-v1.rar/file",
+      "category": "CLASSIC",
+      "platforms": "windows/ Gamecupe/xpox/ps2",
+      "systemReqs": "\n| نظام التشغيل         | Windows 98 / ME / 2000 /xp][1])                                    |\n| المعالج (CPU)           | Pentium III بسرعة حوالي 500 MHz[])                                |\n| الذاكرة العشوائية (RAM) | 128 ميجابايت\n| بطاقة الرسوميات         | بطاقة تدعم Direct3D بحجم ذاكرة 32 ميجابايت                     |\n| مساحة التخزين           | تقريبًا **160 ميجابايت** خالية على القرص الصلب              |\n| برامج داعمة             | DirectX 9.0 ، بطاقة صوت متوافقة مع DirectX، لوحة مفاتيح + ماوس \n\n\n",
+      "gameSpecs": "مجانيه                                                                                                                                                                     كامله                                                                                                                                                                     خاليه من الفيروسات ...",
+      "views": 24,
+      "createdAt": "2025-09-26T22:24:51.844Z"
+    }
+  ],
+  "startId": 1,
+  "endId": 200,
+  "count": 3
+}
