@@ -28,8 +28,8 @@ interface Index {
 }
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-const GITHUB_OWNER = process.env.GITHUB_OWNER || 'bassemalaasar321-bit';
-const GITHUB_REPO = process.env.GITHUB_REPO || 'downloadproo';
+const GITHUB_OWNER = process.env.GITHUB_OWNER || 'kaianime99999-prog';
+const GITHUB_REPO = process.env.GITHUB_REPO || 'download_pro_games';
 const GAMES_PER_FILE = 200;
 
 class GitHubDB {
